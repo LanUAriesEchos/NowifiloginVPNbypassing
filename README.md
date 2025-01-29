@@ -1,6 +1,6 @@
 # NowifiloginVPNbypassing
 # Stops X-VPN from being allowed to connect to its ips
-
+#X-VPN servers list (Free servers are only in this list as they are the most commonly used among school students.)
 Currently iun progress but my gosh darn Thinkpasd dont want to boot into barebones android
 
 #
